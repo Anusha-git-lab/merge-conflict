@@ -1,2 +1,6 @@
 Merge Conflict
+<<<<<<< HEAD
 One more Conflict
+=======
+Making changes
+>>>>>>> 9b428bd55825884f1c442d9928c8bd9e5d54bb7e
